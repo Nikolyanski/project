@@ -1,5 +1,1 @@
-# project
-my first project
-
-
-GIT CHECK FETCH
+PROVERKA_CHECK_FETCH
